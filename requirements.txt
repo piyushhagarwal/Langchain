@@ -1,0 +1,9 @@
+python-dotenv
+langchain
+langchain-mistralai
+langchain_community
+langchain_huggingface
+transformers
+huggingface_hub
+bitsandbytes
+accelerate
