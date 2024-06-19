@@ -7,3 +7,6 @@ transformers
 huggingface_hub
 bitsandbytes
 accelerate
+bs4
+langchain_chroma
+faiss-cpu
